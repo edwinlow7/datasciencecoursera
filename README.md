@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Course Sera Rpo
+Coursera Rpo
